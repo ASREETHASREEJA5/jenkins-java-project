@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> Netflix - teja-vit</h2>
+      <h2> Netflix-ASREETHA</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
